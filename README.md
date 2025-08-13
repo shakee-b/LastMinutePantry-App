@@ -45,13 +45,19 @@ Jest - Testing framework
 
 
 LastMinutePantry/
+
 ├── src/
 │   └── navigation/
 │       └── AppNavigator.js
+
 ├── App.js                 # Main app component
+
 ├── index.js              # App entry point
+
 ├── app.json              # App configuration
+
 └── Configuration files   # ESLint, Prettier, Babel, Jest, Metro
+
 
 
 🚀 Getting Started
